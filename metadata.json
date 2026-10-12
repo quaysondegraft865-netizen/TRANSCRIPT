@@ -1,0 +1,6 @@
+{
+  "name": "Nkroful Agric SHS - Student Transcript & Result Management System",
+  "description": "Comprehensive student academic records, continuous assessment sheets, master broadsheets, terminal reports, and official transcript generation system for Nkroful Agricultural Senior High School.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
